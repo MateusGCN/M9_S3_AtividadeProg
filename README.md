@@ -8,3 +8,7 @@ Todos os testes foram realizados com sucesso:
 Código dos testes:
 ![image](./images/image2.png)
 
+
+Build da solução:
+![image](./images/image3.png)
+
